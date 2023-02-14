@@ -1,0 +1,8 @@
+C:\Users\charl\Github\FrameworkApp\FrameworkApp\bin\Debug\FrameworkApp.exe.config
+C:\Users\charl\Github\FrameworkApp\FrameworkApp\bin\Debug\FrameworkApp.exe
+C:\Users\charl\Github\FrameworkApp\FrameworkApp\bin\Debug\FrameworkApp.pdb
+C:\Users\charl\Github\FrameworkApp\FrameworkApp\obj\Debug\FrameworkApp.csproj.AssemblyReference.cache
+C:\Users\charl\Github\FrameworkApp\FrameworkApp\obj\Debug\FrameworkApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\charl\Github\FrameworkApp\FrameworkApp\obj\Debug\FrameworkApp.csproj.CoreCompileInputs.cache
+C:\Users\charl\Github\FrameworkApp\FrameworkApp\obj\Debug\FrameworkApp.exe
+C:\Users\charl\Github\FrameworkApp\FrameworkApp\obj\Debug\FrameworkApp.pdb
